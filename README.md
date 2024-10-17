@@ -37,3 +37,5 @@ Feel free to contact me via GitHub for AI-related collaboration opportunities or
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starpig1129&show_icons=true&locale=en" alt="starpig1129" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starpig1129&" alt="starpig1129" /></p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;">
