@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm starpig!
+# 👋 Hi there, I'm CHAO,ZI-YUE!
 
 ## 🚀 About Me
 I'm a passionate developer in artificial intelligence and data science. My focus areas in AI include but are not limited to:
@@ -11,13 +11,12 @@ I'm a passionate developer in artificial intelligence and data science. My focus
 
 ## 🛠️ Key Projects
 - **PigPig-discord-LLM-bot**: A Discord bot based on multi-modal LLM, enabling natural language interactions.
-- **Multi-agent-DataAnalysis**: An advanced multi-agent system for automating complex research processes, utilizing LangChain, OpenAI GPT, and LangGraph.
-- **GANs_dog**: Exploring Generative Adversarial Networks (GANs) for dog image generation.
+- **DATAGEN**: An advanced multi-agent system for automating complex research processes, utilizing LangChain, OpenAI GPT, and LangGraph.
 - **recommendSystem**: Developing personalized recommendation systems to enhance user experience.
 
 ## 💻 Skills
 - **Programming Languages**: Python, C, HTML, JavaScript
-- **AI/ML Frameworks**: PyTorch, TensorFlow, Transformers, LangChain, OpenAI GPT, LangGraph
+- **AI/ML Frameworks**: PyTorch, TensorFlow, Transformers, LangChain/LangGraph 
 - **Web Frameworks**: Flask
 - **Development Tools**: VSCode, Jupyter Notebook, GitHub
 
